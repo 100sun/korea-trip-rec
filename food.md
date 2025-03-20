@@ -1,7 +1,7 @@
-# 🇰🇷 Korean Food Checklist
+# Sofia's K-Food Recommendations
 
-Enjoy your **Korean food adventure**! 🇰🇷🔥🍜  
-Marked my extra recommendation as star ⭐️
+Enjoy your **Korean food adventure**! 🇰🇷🍜🔥  
+Marked my personal favorites with ⭐️.
 
 ---
 
@@ -28,7 +28,7 @@ Marked my extra recommendation as star ⭐️
 - **⭐️ 닭갈비 (Dakgalbi)** – Spicy, sweet stir-fried chicken with rice cakes. **Order cheese and udon!**
 - **⭐️ 갈비탕 (Galbi Tang)** – Light beef short rib soup.
 - **⭐️ 보쌈 (Bossam)** – Steamed pork belly, eat with **막국수 (Makguksu - Cold Buckwheat Noodles).**
-- **⭐️ 육회 (Yukhoe)** – Korean beef tartare, pairs well with **부추전 (Chive Pancake)** or **해물파전 (Seafood Pancake).**
+- **⭐️ 육회 (Yukhoe)** – Korean beef tartare, pairs well with **부추전 (Chive Pancake)**, **해물파전 (Seafood Pancake).**, **김치전 (Kimchi Pancake).**
 - **육개장 (Yukgaejang)** – Spicy beef soup with shredded brisket.
 - **떡국 (Tteokguk)** – Rice cake soup, a **New Year’s tradition.**
 - **꽃게매운탕 & 게딱지볶음밥** – Spicy blue crab stew & fried rice mixed in crab shell.
